@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/nextsupabase is built on the following main stack:
+
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [React](https://reactjs.org/) – Javascript UI Libraries
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -14,11 +15,13 @@ dr-gareth-roberts/nextsupabase is built on the following main stack:
 - [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 dr-gareth-roberts/nextsupabase is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -31,14 +34,15 @@ dr-gareth-roberts/nextsupabase is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [dr-gareth-roberts/nextsupabase](https://github.com/dr-gareth-roberts/nextsupabase)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|35<br/>Tools used|11/10/23 <br/>Report generated|
+|37<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -183,9 +187,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -204,6 +208,8 @@ Full tech stack [here](/techstack.md)
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.4.0|05/31/22|Dr Gareth Roberts |MIT|N/A|
 |[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|v7.24.0|05/31/22|Dr Gareth Roberts |MIT|N/A|
 |[eslint-plugin-react-hooks](https://www.npmjs.com/eslint-plugin-react-hooks)|v4.2.0|05/31/22|Dr Gareth Roberts |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v5.2.0|05/31/22|Dr Gareth Roberts |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.5.4|05/31/22|Dr Gareth Roberts |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|05/31/22|Dr Gareth Roberts |MIT|N/A|
 |[postcss](https://www.npmjs.com/postcss)|v8.2.15|05/31/22|Dr Gareth Roberts |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
 |[react-dom](https://www.npmjs.com/react-dom)|v17.0.2|05/31/22|Dr Gareth Roberts |MIT|N/A|
@@ -213,4 +219,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
